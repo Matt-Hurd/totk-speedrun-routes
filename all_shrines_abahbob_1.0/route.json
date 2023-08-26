@@ -188,6 +188,9 @@
           "thingId": "0x5210477ad70a72aa"
         },
         {
+          "thingId": "0xbb691e7b47aca4dd"
+        },
+        {
           "thingId": "0x1449f49a6e2c7df9"
         },
         {
@@ -201,7 +204,7 @@
           "thingId": "0x5a998b853dd9b14a"
         }
       ],
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Central",
@@ -316,6 +319,10 @@
           "action": "COMPLETE"
         },
         {
+          "thingId": "0x26d1a80599de4a7c",
+          "htmlNote": "<p><span class=\"ql-size-large\">Steering Sticks</span></p>"
+        },
+        {
           "thingId": "0x3e3289c79762e485"
         },
         {
@@ -349,7 +356,8 @@
           "thingId": "0x156f2d267b948e93"
         },
         {
-          "thingId": "0x35eefd176375afca"
+          "thingId": "0x35eefd176375afca",
+          "htmlNote": "<p><span class=\"ql-size-large\">FABS</span></p>"
         },
         {
           "thingId": "0x63ced28d6fb3d22c"
@@ -365,7 +373,8 @@
           "thingId": "0x04ff4d4c4013b029"
         },
         {
-          "thingId": "0x1df7d88de17b308d"
+          "thingId": "0x1df7d88de17b308d",
+          "htmlNote": "<p>Stick clip OoB</p><p>Stick Clip back inbounds into the chasm (this can be rough)</p>"
         },
         {
           "thingId": "0x3370bc5c3b5dad08"
@@ -433,7 +442,7 @@
           "thingId": "0x681c358ab0f0dec1"
         }
       ],
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "East",
@@ -713,7 +722,10 @@
         {
           "thingId": "0xdf2a03501ab8a752"
         },
-        { "thingId": "0x3e3289c79762e485", "action": "WARP" },
+        {
+          "thingId": "0x3e3289c79762e485",
+          "action": "WARP"
+        },
         {
           "thingId": "0xe2ce3ada2898c8ea"
         },
