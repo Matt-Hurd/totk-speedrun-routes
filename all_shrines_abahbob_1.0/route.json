@@ -96,7 +96,8 @@
           "action": "WARP"
         },
         {
-          "thingId": "0xf5f26b6972591c83"
+          "thingId": "0xf5f26b6972591c83",
+          "htmlNote": "<p>Cut down tree for wood</p>"
         },
         {
           "thingId": "0xfe48a6a9cd3850f5"
@@ -123,7 +124,7 @@
           "thingId": "0x5fb0b600bb97556c"
         }
       ],
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "Naydra",
@@ -442,7 +443,7 @@
           "thingId": "0x681c358ab0f0dec1"
         }
       ],
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "East",
