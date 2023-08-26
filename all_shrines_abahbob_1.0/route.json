@@ -124,7 +124,7 @@
           "thingId": "0x5fb0b600bb97556c"
         }
       ],
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "Naydra",
@@ -381,9 +381,6 @@
           "thingId": "0x3370bc5c3b5dad08"
         },
         {
-          "thingId": "0xbb579956fbec25c1"
-        },
-        {
           "thingId": "0xee17328de769487a"
         },
         {
@@ -443,7 +440,7 @@
           "thingId": "0x681c358ab0f0dec1"
         }
       ],
-      "enabled": false
+      "enabled": true
     },
     {
       "name": "East",
